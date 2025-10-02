@@ -6,3 +6,9 @@ comando git bash
 4 -  ls -a mostrar as pastas ponto ponto . e ..
 5 - mkdir cria uma pasta
 6 - cat *nome do arquivo* mostra o que tem dentro do arquivo
+7 - git init . inicializa uma pasta especial pra receber versionamento de arquivo
+8 - rm -rf .git/ exclui a pasta especial .git criada diretorio
+9 - git add sinalizar que é o arquivo que vai ser commitado
+10 - git commit -m versiona o arquivo
+11 - git config --global user.email "" assina quem estar commitando 
+12 - git config --global user.name "" assina quem estar commitando 
