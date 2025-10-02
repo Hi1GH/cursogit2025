@@ -15,3 +15,4 @@ comando git bash
 13 - git log mostra os commits feitos em ordem cronologica/historico
 14 - git add . prepara toda pasta atual para ser commitada
 15 - git add comandos_* prepara todas as pastas com o nome comandos_ para serem commitadas
+16 - nano "nome do arquivo a ser criado" cria um arquivo no diretorio
