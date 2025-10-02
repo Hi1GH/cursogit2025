@@ -12,3 +12,6 @@ comando git bash
 10 - git commit -m versiona o arquivo
 11 - git config --global user.email "" assina quem estar commitando 
 12 - git config --global user.name "" assina quem estar commitando 
+13 - git log mostra os commits feitos em ordem cronologica/historico
+14 - git add . prepara toda pasta atual para ser commitada
+15 - git add comandos_* prepara todas as pastas com o nome comandos_ para serem commitadas
