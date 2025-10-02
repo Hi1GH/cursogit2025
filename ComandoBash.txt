@@ -1,0 +1,8 @@
+comando git bash
+
+1 - ls lista o que estar dentro do diretório
+2 - cd mudar de diretório 
+3 - pwd mostrar o caminho do diretório
+4 -  ls -a mostrar as pastas ponto ponto . e ..
+5 - mkdir cria uma pasta
+6 - cat *nome do arquivo* mostra o que tem dentro do arquivo
